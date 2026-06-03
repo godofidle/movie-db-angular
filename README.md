@@ -1,4 +1,4 @@
-Live Demo: https://ayanmaity93.github.io/movie-db-angular
+Live Demo: https://godofidle.github.io/movie-db-angular
 
 # MovieDb
 
